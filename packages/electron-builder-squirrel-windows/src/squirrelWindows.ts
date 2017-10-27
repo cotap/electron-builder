@@ -6,7 +6,7 @@ import * as path from "path"
 import sanitizeFileName from "sanitize-filename"
 import { buildInstaller, convertVersion, SquirrelOptions } from "./squirrelPack"
 
-const SW_VERSION = "1.6.0.0"
+const SW_VERSION = "1.7.8.0"
 //noinspection SpellCheckingInspection
 const SW_SHA2 = "ipd/ZQXyCe2+CYmNiUa9+nzVuO2PsRfF6DT8Y2mbIzkc8SVH8tJ6uS4rdhwAI1rPsYkmsPe1AcJGqv8ZDZcFww=="
 

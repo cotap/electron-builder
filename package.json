@@ -1,5 +1,7 @@
 {
-  "private": true,
+  "name": "electron-builder",
+  "productName": "electron-builder",
+  "version": "19.42.0",
   "license": "MIT",
   "scripts": {
     "//": "do not wrap into single quotes - windows doesn't unwrap arg in this case",
